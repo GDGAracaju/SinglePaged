@@ -5,4 +5,4 @@
  fa-icon: sitemap
 ---
 
-# Em breve mais sobre nossas Patrocinadores!
+# Em breve mais sobre nossos Patrocinadores!

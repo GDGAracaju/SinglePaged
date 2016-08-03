@@ -5,4 +5,4 @@
  fa-icon: users
 ---
 
-# Em breve mais sobre nossas Colaboradores WTM!
+# Em breve mais sobre nossas Colaboradoras WTM!
