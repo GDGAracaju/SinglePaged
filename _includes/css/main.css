@@ -28,7 +28,7 @@ html { box-sizing: border-box; }
 
 /* ----- code, syntax highlighting, etc ----- */
 
-code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
+code, pre { font-family: 'Roboto', Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
 code {
@@ -263,7 +263,7 @@ nav ul li:hover, nav ul li.active {
 #forkongithub a {
   color:#fff;
   text-decoration:none;
-  font-family:arial,sans-serif;
+  font-family:'Roboto', sans-serif;
   text-align:center;
   font-weight:700;
   font-size:1rem;
