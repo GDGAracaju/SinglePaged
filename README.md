@@ -1,3 +1,3 @@
+Utilizamos como base:
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged) do qual tem licença MIT, podendo ser usado livremente.
