@@ -5,4 +5,23 @@
  fa-icon: users
 ---
 
-# Em breve mais sobre nossas Colaboradoras WTM!
+# Nossas Colaboradoras
+
+<br/>
+
+<div class="container-img">
+  <div class="img-card">
+    <img src="img/colaboradoras/ana-costa.jpg" />
+    <p>Ana Costa</p>
+  </div>
+
+  <div class="img-card">
+    <img src="img/colaboradoras/danielle-ismerim.jpeg">
+    <p>Danielle Ismerim</p>
+  </div>
+
+  <div class="img-card">
+    <img src="img/colaboradoras/milene-vieira.jpg" />
+    <p>Milene Vieira</p>
+  </div>
+</div>
