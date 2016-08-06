@@ -5,7 +5,7 @@
     margin-bottom: 20px;
 }
 
-.horizontal-card > div {
+.horizontal-card > div.img {
     width: 153px;
     height: 199px;
     position: absolute;
@@ -13,11 +13,18 @@
     box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
 }
 
-.horizontal-card > h1 {
+.horizontal-card > div.text {
+  margin-left:  153px;
+}
+
+.horizontal-card > div.text > h1 {
   color: black;
-  vertical-align: text-top;
   text-align: right;
-  position: relative;
+}
+
+.horizontal-card > div.text > p {
+  color: gray;
+  text-align: justify;
 }
 
 .container-img {
