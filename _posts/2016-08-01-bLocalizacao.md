@@ -5,4 +5,4 @@
  fa-icon: map-marker
 ---
 
-# Em breve mais sobre nossas palestrantes!
+# Em breve!
