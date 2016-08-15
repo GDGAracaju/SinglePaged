@@ -28,10 +28,10 @@ html { box-sizing: border-box; }
 
 /* ----- code, syntax highlighting, etc ----- */
 
-code, pre { font-family: 'Roboto'; }
+code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
-code {
+code, pre {
   background: rgba(255,255,255,0.2);
   display: inline;
   word-wrap: break-word;
@@ -47,7 +47,7 @@ pre {
   word-wrap: break-word;
 }
 
-.highlighttable { margin:20px 5%; }
+.highlight { margin:20px 5%; }
 
 
 /* ----- base elements ----- */
@@ -135,7 +135,7 @@ nav ul {
 nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
-  padding: {{navborder}}px 0;
+  padding: {{navborder}}px;
   *display:inline;
   zoom:1;
   line-height:normal;
@@ -152,7 +152,6 @@ nav ul li a, nav ul li a:visited {
   text-decoration:none;
   font-weight:600;
   opacity:.75;
-  padding-right: 5px;
 }
 
 nav ul li a:hover {
@@ -220,7 +219,7 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider .fa-stack {
   font-size: 130px;
   position: static;
-  margin-to p: -8px;
+  margin-top: -8px;
 }
 .sectiondivider .fa-circle { color: #fff; }
 
@@ -229,7 +228,7 @@ nav ul li:hover, nav ul li.active {
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
-  bottom:45px;
+  bottom:50px;
   left:auto;
   text-align:center;
   display:block;
@@ -264,7 +263,7 @@ nav ul li:hover, nav ul li.active {
 #forkongithub a {
   color:#fff;
   text-decoration:none;
-  font-family:'Roboto';
+  font-family:arial,sans-serif;
   text-align:center;
   font-weight:700;
   font-size:1rem;
