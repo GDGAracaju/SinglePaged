@@ -17,4 +17,8 @@
   <div class="img-card mdl-shadow--8dp img-card-2col">
     <a href="http://cio-se.org.br/"><img src="img/patrocinadores/logo-cio-se.png"></a>
   </div>
+
+  <div class="img-card mdl-shadow--8dp img-card-2col">
+    <a href="http://cio-se.org.br/"><img src="img/patrocinadores/escariz-logo.png"></a>
+  </div>
 </div>
